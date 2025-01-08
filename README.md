@@ -28,9 +28,9 @@ The course will run from Wednesday, January 8th - Friday, January 17th.
 * **Tool Exploration**: [MyST](https://mystmd.org/) and [Curvenote](https://curvenote.com/)
 * Window's Users Only: * **Activity**: Installing Linux on Windows (30 minutes)
 
-#### Reading (on your own)
-* [Developing open source scientific practice (Millman & Perez)](https://berkeley-stat159-f17.github.io/stat159-f17/_static/ref/millman-perez.pdf) Introduction and Chapters 1-2 (About 8 pages total)
-* [Terminologies for Reproducible Research (Barba)](https://arxiv.org/pdf/1802.03311.pdf) Pages 1-5, stopping at: Cataloguing the reproducibility literature
+#### Homework
+* [Developing open source scientific practice (Millman & Perez)](https://berkeley-stat159-f17.github.io/stat159-f17/_static/ref/millman-perez.pdf) Read: Introduction and Chapters 1-2 (About 8 pages total)
+* [Terminologies for Reproducible Research (Barba)](https://arxiv.org/pdf/1802.03311.pdf) Read: Pages 1-5, stopping at: Cataloguing the reproducibility literature
 
 ## Course Resources
 * [Research software engineering in Python](https://merely-useful.tech/py-rse/getting-started.html)
