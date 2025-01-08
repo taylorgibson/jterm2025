@@ -16,6 +16,8 @@ The course will run from Wednesday, January 8th - Friday, January 17th.
 * Introductions (15 minutes)
 * The need for open science ([slides](https://docs.google.com/presentation/d/1NzRybc7jhYV9KMoZM95LAieRbF_vXwBPM4LE_I2BVkA/edit?usp=sharing)) (30 minutes)
 * **Activity** Comparing "traditional" scientific publication vs. "modern" scientific publication (45 minutes)
+    * [ McAdam, Doug. “Recruitment to High-Risk Activism: The Case of Freedom Summer.” American Journal of Sociology, vol. 92, no. 1, 1986, pp. 64–90. JSTOR](https://www.jstor.org/stable/2779717)
+    * [Speidel, L., Silva, M., Booth, T. et al. High-resolution genomic history of early medieval Europe. Nature 637, 118–126 (2025). https://doi.org/10.1038/s41586-024-08275-2](https://doi.org/10.1038/s41586-024-08275-2)
 * Morning Wrap-up (15 minutes)
 
 #### Mid-day indpendent work (11am - 2pm):
