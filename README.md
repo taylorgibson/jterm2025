@@ -24,8 +24,8 @@ The course will run from Wednesday, January 8th - Friday, January 17th.
 
 #### Afternoon (2pm - 4pm)
 * **Activity**: Reflection and conversation on podcast (30 minutes)
-* **Tool Exploration**: (Zotero)[https://www.zotero.org/]
-* **Tool Exploration**: (MyST)[https://mystmd.org/] and (Curvenote)[https://curvenote.com/]
+* **Tool Exploration**: [Zotero](https://www.zotero.org/)
+* **Tool Exploration**: [MyST](https://mystmd.org/) and [Curvenote](https://curvenote.com/)
 * Window's Users Only: * **Activity**: Installing Linux on Windows (30 minutes)
 
 #### Reading (on your own)
