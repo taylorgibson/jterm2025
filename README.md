@@ -34,6 +34,35 @@ The course will run from Wednesday, January 8th - Friday, January 17th.
 * [Developing open source scientific practice (Millman & Perez)](https://berkeley-stat159-f17.github.io/stat159-f17/_static/ref/millman-perez.pdf) Read: Introduction and Chapters 1-2 (About 8 pages total)
 * [Terminologies for Reproducible Research (Barba)](https://arxiv.org/pdf/1802.03311.pdf) Read: Pages 1-5, stopping at: Cataloguing the reproducibility literature
 
+### Thursday, January 9th: Fundamentals of Computing, Day 1
+
+#### Morning: 9:30am - 11:30am
+* **Activity**: Introduction to Command Line (45 minutes)
+    * [Command Line Challenge](https://cmdchallenge.com)
+    * [bashcrawl](https://gitlab.com/slackermedia/bashcrawl)
+    * [Common terminal commands (realpython.com)](https://realpython.com/terminal-commands/#learn-basic-terminal-commands)
+* Any troubleshooting from this morning's activities
+
+### Mid-day independent work (11:30am - 2pm)
+* On your own: [60 minutes: Duke Clinical Trials](https://www.youtube.com/watch?v=W5sZTNPMQRM)
+* On your own: [The Importance of Reproducible Research in High-Throughput Biology](https://www.youtube.com/watch?v=8QJfNS7XXwA)
+
+#### Afternoon: 2pm - 4pm
+* Finding good data (15 minutes)
+    * [Data is plural](https://www.data-is-plural.com/)
+    * [Kaggle](https://www.kaggle.com)
+    * [Gapminder](https://www.gapminder.org/)
+    * [Project Gutenberg](https://www.gutenberg.org/)
+
+* **Activity**: Figures from code vs. figures from spreadsheets
+  
+* Data Types and Programming boot camp (60 minutes)
+  *  [10 minutes to Pandas](https://pandas.pydata.org/docs/user_guide/10min.html#merge)
+
+#### Reading (on your own)
+* [Developing open source scientific practice (Millman & Perez)](https://berkeley-stat159-f17.github.io/stat159-f17/_static/ref/millman-perez.pdf) Chapter 3 (About 8 pages total)
+* [Reproducible Research (Yale Law School Roundtable on Data and Code Sharing)](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5562471) (5 pages)
+
 ## Course Resources
 * [Research software engineering in Python](https://merely-useful.tech/py-rse/getting-started.html)
 * [UC Berkeley: Stat 159: Collaborative and Reproducible Data Science](https://ucb-stat-159-s22.github.io/site/overview.html)
