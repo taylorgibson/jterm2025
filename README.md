@@ -55,6 +55,8 @@ The course will run from Wednesday, January 8th - Friday, January 17th.
     * [Project Gutenberg](https://www.gutenberg.org/)
 
 * **Activity**: Figures from code vs. figures from spreadsheets
+    * [Titanic Data Spreadsheet](https://docs.google.com/spreadsheets/d/1J3nt0aicpsDYe1ABQHpWlLmsqHcg6ut76d2h_9PKtBg/edit?usp=sharing)
+    * [Titanic using Code](#)
   
 * Data Types and Programming boot camp (60 minutes)
   *  [10 minutes to Pandas](https://pandas.pydata.org/docs/user_guide/10min.html#merge)
