@@ -34,7 +34,7 @@ The course will run from Wednesday, January 8th - Friday, January 17th.
 * [Developing open source scientific practice (Millman & Perez)](https://berkeley-stat159-f17.github.io/stat159-f17/_static/ref/millman-perez.pdf) Read: Introduction and Chapters 1-2 (About 8 pages total)
 * [Terminologies for Reproducible Research (Barba)](https://arxiv.org/pdf/1802.03311.pdf) Read: Pages 1-5, stopping at: Cataloguing the reproducibility literature
 
-### Thursday, January 9th: Fundamentals of Computing, Day 1
+### Thursday, January 9th: Fundamentals of Computing
 
 #### Morning: 9:30am - 11:30am
 * **Activity**: Introduction to Command Line (45 minutes)
@@ -64,6 +64,31 @@ The course will run from Wednesday, January 8th - Friday, January 17th.
 #### Reading (on your own)
 * [Developing open source scientific practice (Millman & Perez)](https://berkeley-stat159-f17.github.io/stat159-f17/_static/ref/millman-perez.pdf) Chapter 3 (About 8 pages total)
 * [Reproducible Research (Yale Law School Roundtable on Data and Code Sharing)](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5562471) (5 pages)
+
+### Friday, January 10th: Getting Started with MyST
+
+#### Morning: 9:00am - 11:00am
+* Review the key elements of a research article: [Morganton Scientific Publication Criteria](https://docs.google.com/document/d/1xPeoVRL3Q2fjqln9qzmNNEMXuUUCTx2_N5ufKFvNakY/edit?usp=sharing)
+* Install VSCode
+    * [VSCode](https://code.visualstudio.com/) is a code editor that will be helpful when creating and editing files for your article / manuscript.
+    * Install the MyST Markdown extension for nice color-coding of important sections of your article
+* Create neccesary files for creating your article
+    * `myst.yml`: The configuration file for your article
+    * `article.md`: The text of your article
+    * `analysis.ipynb`: A jupyter notebook for any data analysis and/or figure generation
+    * `refs.bib`: A file for any references that do not have a DOI number assigned
+* Understand key elements of a MyST `article.md` file:
+    * Section headers
+    * Figure call-outs
+    * Tables
+    * Citations
+
+### Mid-day independent work (11am - 2pm)
+* [Jupyter: Thinking and Storytelling With Code and Data (Granger and Pérez) (2021)](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9387490) (7 pages)
+* [Perspectives on Data Reproducibility and Replicability in Paleoclimate and Climate Science (Bush, et al.)](https://hdsr.mitpress.mit.edu/pub/dijwtzza/release/1) (About 16 pages)
+
+#### Afternoon: 2pm - 4pm
+* Independent time to make your first pass at completing a very basic version of your `article.md` file. At a minimum, you should have each of your sections created, with placeholder text in each section. Do not attempt to include figures, tables, or equations yet. Feel free to include citations that use DOI's now, but hold off on any citations that do not have DOI numbers assigned.
 
 ## Course Resources
 * [Research software engineering in Python](https://merely-useful.tech/py-rse/getting-started.html)
