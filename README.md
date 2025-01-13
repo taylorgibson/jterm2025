@@ -90,6 +90,24 @@ The course will run from Wednesday, January 8th - Friday, January 17th.
 #### Afternoon: 2pm - 4pm
 * Independent time to make your first pass at completing a very basic version of your `article.md` file. At a minimum, you should have each of your sections created, with placeholder text in each section. Do not attempt to include figures, tables, or equations yet. Feel free to include citations that use DOI's now, but hold off on any citations that do not have DOI numbers assigned.
 
+### Monday, January 13th: Citations and Markdown
+
+#### Morning 9am - 11am
+* How to cite sources that do not have a DOI using [BibTex](https://www.bibtex.org/)
+* Review of using Markdown and Latex to format elements in your manuscript.
+    * [LaTeX Cheatsheet](https://katex.org/docs/supported.html)
+    * [Markdown Cheatsheet](https://www.markdownguide.org/cheat-sheet/)
+
+#### Mid-day independent work (11am - 2pm)
+* [Better Poster Movement](https://www.youtube.com/watch?v=SYk29tnxASs)
+
+#### Afternoon (2pm - 4pm): Office hours
+* Meet with Mr. Gibson about your manuscript if you have any questions about it.
+* Held in ETC-002 (the basement of the ETC building, down the hallway from the student center / Woolworth room
+
+#### Reading (on your own)
+* [Open Science by Design, Realizing a Vision for 21st Century Research (National Academies of Sciences, Engineering, and Medicine) (2018)](https://www.ncbi.nlm.nih.gov/books/NBK525417/pdf/Bookshelf_NBK525417.pdf) Chapter 4 (starts at page 124 in the PDF, which is page number 107 in the paper)
+
 ## Course Resources
 * [Research software engineering in Python](https://merely-useful.tech/py-rse/getting-started.html)
 * [UC Berkeley: Stat 159: Collaborative and Reproducible Data Science](https://ucb-stat-159-s22.github.io/site/overview.html)
