@@ -94,6 +94,8 @@ The course will run from Wednesday, January 8th - Friday, January 17th.
 
 #### Morning 9am - 11am
 * How to cite sources that do not have a DOI using [BibTex](https://www.bibtex.org/)
+    * [zbib](https://www.zbib.org): Great for quickly creating citations from DOI, ISBN, or URL
+    * [Getting Started in MyST](https://docs.google.com/document/d/1sRM55nkGOBYGI5jPtTCev7H-DJISa1a4dTpN4LyGjfk/edit?tab=t.0#heading=h.k9g06w7v5unu): Contains additional examples of BibTeX citations.
 * Review of using Markdown and Latex to format elements in your manuscript.
     * [LaTeX Cheatsheet](https://katex.org/docs/supported.html)
     * [Markdown Cheatsheet](https://www.markdownguide.org/cheat-sheet/)
