@@ -110,6 +110,23 @@ The course will run from Wednesday, January 8th - Friday, January 17th.
 #### Reading (on your own)
 * [Open Science by Design, Realizing a Vision for 21st Century Research (National Academies of Sciences, Engineering, and Medicine) (2018)](https://www.ncbi.nlm.nih.gov/books/NBK525417/pdf/Bookshelf_NBK525417.pdf) Chapter 4 (starts at page 124 in the PDF, which is page number 107 in the paper)
 
+
+### Tuesday, January 14th: Creating figures
+#### Morning 9am - 11am
+* Learn how to create figures in a code notebook, and pull them into your article
+    * Refresh: [10 minutes to Pandas](https://pandas.pydata.org/docs/user_guide/10min.html#merge)
+    * [Referencing figures from notebooks](https://mystmd.org/guide/cross-references#targeting-cells)
+
+#### Mid-day independent work (11am - 2pm)
+* TBD
+
+#### Afternoon (2pm - 4pm): Office hours
+* Meet with Mr. Gibson about your manuscript if you have any questions about it.
+* Held in ETC-002 (the basement of the ETC building, down the hallway from the student center / Woolworth room
+
+#### Reading (on your own)
+* TBD
+
 ## Course Resources
 * [Research software engineering in Python](https://merely-useful.tech/py-rse/getting-started.html)
 * [UC Berkeley: Stat 159: Collaborative and Reproducible Data Science](https://ucb-stat-159-s22.github.io/site/overview.html)
