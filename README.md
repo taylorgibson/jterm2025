@@ -133,6 +133,7 @@ The course will run from Wednesday, January 8th - Friday, January 17th.
     * [How to setup a repository](https://docs.github.com/en/migrations/importing-source-code/using-the-command-line-to-import-source-code/adding-locally-hosted-code-to-github#initializing-a-git-repository)
     * Don't forget to include `_build/`, `.ipynb_checkpoints/`, and (if on a Mac) `.DS_Store` in a `.gitignore` file!
     * [Setting up github pages with MyST](https://mystmd.org/guide/deployment-github-pages)
+    * [Common `git` commands](https://docs.google.com/document/d/16NzI_AOenggZx7ygWzHMWhb0NL_sHhvNdnmxd5zBjyA/edit?usp=sharing)
 
 #### Mid-day independent work (11am - 2pm)
 * [Ten Simple Rules for Taking Advantage of Git and Github (PLOS Computational Biology)](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004947)
