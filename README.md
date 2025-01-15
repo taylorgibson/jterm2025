@@ -131,7 +131,7 @@ The course will run from Wednesday, January 8th - Friday, January 17th.
 * Creating your github repository and setting up github pages
     * [Creating a key for your github account](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent) 
     * [How to setup a repository](https://docs.github.com/en/migrations/importing-source-code/using-the-command-line-to-import-source-code/adding-locally-hosted-code-to-github#initializing-a-git-repository)
-    * Don't forget to include `_build/` in a `.gitignore` file!
+    * Don't forget to include `_build/`, `.ipynb_checkpoints/`, and (if on a Mac) `.DS_Store` in a `.gitignore` file!
     * [Setting up github pages with MyST](https://mystmd.org/guide/deployment-github-pages)
 
 #### Mid-day independent work (11am - 2pm)
