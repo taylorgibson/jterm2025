@@ -118,15 +118,29 @@ The course will run from Wednesday, January 8th - Friday, January 17th.
     * [Referencing figures from notebooks](https://mystmd.org/guide/cross-references#targeting-cells)
 
 #### Mid-day independent work (11am - 2pm)
-* TBD
+* Work on your paper
 
 #### Afternoon (2pm - 4pm): Office hours
 * Meet with Mr. Gibson about your manuscript if you have any questions about it.
 * Held in ETC-002 (the basement of the ETC building, down the hallway from the student center / Woolworth room
 
-#### Reading (on your own)
-* TBD
+### Wednesday, January 15th: Github
+#### Morning 9am - 11am
+* Introduction to Git and Github (60 minutes)
+    * What is github and why should you use it?
+* Creating your github repository and setting up github pages
+    * [Creating a key for your github account](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent) 
+    * [How to setup a repository](https://docs.github.com/en/migrations/importing-source-code/using-the-command-line-to-import-source-code/adding-locally-hosted-code-to-github#initializing-a-git-repository)
+    * Don't forget to include `_build/` in a `.gitignore` file!
+    * [Setting up github pages with MyST](https://mystmd.org/guide/deployment-github-pages)
 
+#### Mid-day independent work (11am - 2pm)
+* [Ten Simple Rules for Taking Advantage of Git and Github (PLOS Computational Biology)](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004947)
+
+#### Afternoon (2pm - 4pm): Office hours
+* Meet with Mr. Gibson about your manuscript if you have any questions about it.
+* Held in ETC-002 (the basement of the ETC building, down the hallway from the student center / Woolworth room
+  
 ## Course Resources
 * [Research software engineering in Python](https://merely-useful.tech/py-rse/getting-started.html)
 * [UC Berkeley: Stat 159: Collaborative and Reproducible Data Science](https://ucb-stat-159-s22.github.io/site/overview.html)
