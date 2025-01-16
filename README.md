@@ -141,6 +141,25 @@ The course will run from Wednesday, January 8th - Friday, January 17th.
 #### Afternoon (2pm - 4pm): Office hours
 * Meet with Mr. Gibson about your manuscript if you have any questions about it.
 * Held in ETC-002 (the basement of the ETC building, down the hallway from the student center / Woolworth room
+
+### Thursday, January 16th: Data Availability and Zenodo
+#### Morning 9am - 11am
+* [Data Availability Statements by Taylor and Francis](https://authorservices.taylorandfrancis.com/data-sharing/share-your-data/data-availability-statements/)
+    * [Special MyST Document parts](https://mystmd.org/guide/document-parts) 
+* [Exporting to other formats](https://mystmd.org/guide/documents-exports)
+    * [Exporting to PDF](https://mystmd.org/guide/creating-pdf-documents#rendering-pdfs-with-typst) 
+* [Zenodo](https://zenodo.org/): Create an account linked to your ORCID, and you can upload your data, artcile, etc and assign each a DOI for free.
+  
+#### Mid-day independent work (11am - 2pm)
+* [The FAIR Guiding Principles for scientific data management and stewardship](https://www.nature.com/articles/sdata201618)
+* Work on a 5-minute presentation of your paper for Friday morning
+
+#### Afternoon (2pm - 4pm): Office hours
+* Meet with Mr. Gibson about your manuscript if you have any questions about it.
+* Held in ETC-002 (the basement of the ETC building, down the hallway from the student center / Woolworth room
+
+### Friday, January 17th: Presentations
+* Each student will have around 5 minutes to present their research publication, and highlight any special features they implemented using MyST
   
 ## Course Resources
 * [Research software engineering in Python](https://merely-useful.tech/py-rse/getting-started.html)
