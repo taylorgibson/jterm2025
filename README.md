@@ -159,9 +159,19 @@ The course will run from Wednesday, January 8th - Friday, January 17th.
 * Held in ETC-002 (the basement of the ETC building, down the hallway from the student center / Woolworth room
 
 ### Friday, January 17th: Presentations
+#### Morning 9am - 10am
 * Each student will have around 5 minutes to present their research publication, and highlight any special features they implemented using MyST
+    * https://pragathi-akula.github.io/BMEproject2025
+    * https://alexanderd-07.github.io/jtermd
+    * https://aarushj7.github.io/jterm-2025
+    * https://dhanya-alleni.github.io/jterm2025article/
+    * https://mailim13.github.io/jennettes-pier-project/
+    * https://wonders-dev.github.io/Jterm2025Planaria/
+    * https://shaunya-upp.github.io/jterm2025article/
+    * https://niharkummetha.github.io/aza-stilbene_H2RA_GERD/
   
-## Course Resources
+#### Final Readings
+As you go and support other classmates presentations today, please also wrap up with some final readings to cap off the week. Thanks for all your work and attention the last 8 days! Enjoy J-Term 2 next week.
 * [Research software engineering in Python](https://merely-useful.tech/py-rse/getting-started.html)
 * [UC Berkeley: Stat 159: Collaborative and Reproducible Data Science](https://ucb-stat-159-s22.github.io/site/overview.html)
 * [Earth System Data Science in the Cloud](http://ncics-earth-system-data-science-b4e01a0.s3-website-us-east-1.amazonaws.com/module_0/overview/)
